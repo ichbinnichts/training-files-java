@@ -4,7 +4,7 @@
  */
 package main;
 
-import FileHandler.FileHandler;
+import fileHandler.FileHandler;
 import java.util.ArrayList;
 import java.util.Scanner;
 import projeto.Membro;
